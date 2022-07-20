@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AvishkaVishwa
+- 👋 Hi, I’m @AvishkaVishwajith 
 - 👀 I’m interested in Electronics
 - 🌱 I’m currently learning instrumentation Technology
 - 💞️ I’m looking to collaborate on ...
